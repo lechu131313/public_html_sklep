@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'zycie_pr1',
+    'database_user' => 'zycie_pr1',
+    'database_password' => 'H[gJAwWTKm8FB7yk3R@27&~0',
+    'database_prefix' => 'pr_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'u1p2DmCPr21JzVKgH3tLHdbs9m3PJ2SvcxJ2x9mHenULVeyOLJ1cMPcH',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-10-17',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'InTA8bp81VlvcaiPmlS0h90Zz3eHzmpiyNWetQWVUkk5FmkHJ3CrjSTj',
+    'cookie_iv' => '4pBqawDS',
+    'new_cookie_key' => 'def000009bcea8adb453a13581860c92ff3a0e22567629f9b69bdd12b946b08caa191e9821eaf27a4d594bb8b6c5f5a102c69fe35a54b6656f3d87b4ea632766ecd6b7f7',
+  ),
+);
